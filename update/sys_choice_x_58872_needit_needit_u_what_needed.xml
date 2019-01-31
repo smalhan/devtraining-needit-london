@@ -43,6 +43,25 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>true</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-29 06:12:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b727912ddb1323005cb2d8c0cf961973</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-29 06:26:26</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Facilities</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
@@ -204,9 +223,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>523b840bdb0323005cb2d8c0cf961954</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-21 06:15:19</sys_updated_on>
+            <sys_updated_on>2019-01-29 06:27:46</sys_updated_on>
             <value>your_choice1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -217,15 +236,15 @@
             <label>Your Department Choice2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>7</sequence>
+            <sequence>6</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-01-21 06:15:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9a3b840bdb0323005cb2d8c0cf96196e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-21 06:15:19</sys_updated_on>
+            <sys_updated_on>2019-01-29 06:27:46</sys_updated_on>
             <value>your_choice2</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
